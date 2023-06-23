@@ -1,6 +1,6 @@
 # Olá, me chamo Carlos Eduardo ! 
 ## Bem vindo ao meu perfil GitHub 👋
-Sou estudante de Engenharia de Software na Universidade de Brasília (UnB). Sou apaixonado por desenvolvimento de software e tenho conhecimentos sólidos em linguagens como C, Python e Java.
+Sou estudante de Engenharia de Software na Universidade de Brasília (UnB). E sou apaixonado por desenvolvimento de software.
 
 ## Sobre mim:
 Busco me tornar um desenvolvedor Full Stack e estou constantemente aprimorando minhas habilidades tanto no front-end quanto no back-end. Acredito na importância da versatilidade para o sucesso na área de tecnologia e estou sempre disposto a enfrentar novos desafios.
