@@ -11,11 +11,20 @@ Além disso, sou um líder natural e estou sempre em busca de oportunidades para
 
 Valorizo a comunicação e a troca de ideias. Acredito que uma comunicação efetiva é essencial para o sucesso de um trabalho em equipe e para o desenvolvimento de projetos de alta qualidade.
 
+<div>
+<a href="https://github.com/CADU110">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=CADU110&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 ## ⚙️ Ferramentas e Tecnologias:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
 
 ## 🧠 Aprendizado:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" />
+
+
+
 ## 😺 Meu Git:
 
 Neste GitHub, você encontrará uma variedade de projetos que demonstram minhas habilidades em diferentes linguagens e tecnologias. Sinta-se à vontade para explorar meus repositórios e descobrir como aplico minhas habilidades para enfrentar desafios interessantes.
